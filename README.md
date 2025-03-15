@@ -9,7 +9,7 @@ Want to bust into rhymes with a group of flying aliens? You got it.
 Feel like being exposed to Eldritch horrors and ascending humanity? Do it.
 Need to know why your emotional unavailability sabotages any chances you have of making lasting, loving relationships? **Go to therapy** - a game, let only this one, will _not_ help you.
 
-<video controls src="demo/demo-recording.mov" title="Demo Recording"></video>
+![](demo/demo.gif)
 
 ## Design
 
